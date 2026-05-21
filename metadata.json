@@ -1,0 +1,6 @@
+{
+  "name": "Smart Toll Road Management",
+  "description": "An interactive full-stack toll road management dashboard featuring real-time congestion pricing, Gemini-powered security auditing, and dynamic lane optimization suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
